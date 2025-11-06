@@ -22,7 +22,6 @@
 				"C:/Users/melbourne.media/Documents/GitHub/FPS_Game/FPS_Game_Part_1_Start/Content/seviisomething/materials/blueprint/bp-target.uasset",
 				"C:/Users/melbourne.media/Documents/GitHub/FPS_Game/FPS_Game_Part_1_Start/Content/__ExternalActors__/StarterContent/Maps/FirstPersonMap/E/3I/G5QLEPRDDLKGSIT2JQP28K.uasset",
 				"C:/Users/melbourne.media/Documents/GitHub/FPS_Game/FPS_Game_Part_1_Start/Content/seviisomething/materials/mi_target_red.uasset",
-				"C:/Users/melbourne.media/Documents/GitHub/FPS_Game/FPS_Game_Part_1_Start/Content/StarterContent/Maps/_GENERATED/melbournemedia/SM_Key.uasset",
 				"C:/Users/melbourne.media/Documents/GitHub/FPS_Game/FPS_Game_Part_1_Start/Content/seviisomething/meshes/SM_Key.uasset",
 				"C:/Users/melbourne.media/Documents/GitHub/FPS_Game/FPS_Game_Part_1_Start/Content/seviisomething/materials/blueprint/bp_key.uasset",
 				"C:/Users/melbourne.media/Documents/GitHub/FPS_Game/FPS_Game_Part_1_Start/Content/seviisomething/materials/M_emission.uasset",
@@ -30,7 +29,18 @@
 				"C:/Users/melbourne.media/Documents/GitHub/FPS_Game/FPS_Game_Part_1_Start/Content/StarterContent/LevelPrototyping/Meshes/SM_Door.uasset",
 				"C:/Users/melbourne.media/Documents/GitHub/FPS_Game/FPS_Game_Part_1_Start/Content/__ExternalActors__/StarterContent/Maps/FirstPersonMap/1/46/NESK71YXKMPYM4SDB2EOEF.uasset",
 				"C:/Users/melbourne.media/Documents/GitHub/FPS_Game/FPS_Game_Part_1_Start/Content/__ExternalActors__/StarterContent/Maps/FirstPersonMap/C/JS/LLC6R7NEZFELDMV8RKCKJT.uasset",
-				"C:/Users/melbourne.media/Documents/GitHub/FPS_Game/FPS_Game_Part_1_Start/Content/seviisomething/materials/MI_doorlight.uasset"
+				"C:/Users/melbourne.media/Documents/GitHub/FPS_Game/FPS_Game_Part_1_Start/Content/seviisomething/materials/MI_doorlight.uasset",
+				"C:/Users/melbourne.media/Documents/GitHub/FPS_Game/FPS_Game_Part_1_Start/Content/StarterContent/Maps/stealthMap.umap",
+				"C:/Users/melbourne.media/Documents/GitHub/FPS_Game/FPS_Game_Part_1_Start/Content/StarterContent/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/melbourne.media/Documents/GitHub/FPS_Game/FPS_Game_Part_1_Start/Content/StarterContent/FirstPerson/Input/Actions/IA_Flashlight.uasset",
+				"C:/Users/melbourne.media/Documents/GitHub/FPS_Game/FPS_Game_Part_1_Start/Content/StarterContent/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/melbourne.media/Documents/GitHub/FPS_Game/FPS_Game_Part_1_Start/Content/StarterContent/Maps/_GENERATED/melbournemedia/SM_Flashlight.uasset",
+				"C:/Users/melbourne.media/Documents/GitHub/FPS_Game/FPS_Game_Part_1_Start/Content/StarterContent/LevelPrototyping/Meshes/SM_Flashlight.uasset",
+				"C:/Users/melbourne.media/Documents/GitHub/FPS_Game/FPS_Game_Part_1_Start/Content/StarterContent/FirstPerson/Blueprints/BP_flashlight.uasset",
+				"C:/Users/melbourne.media/Documents/GitHub/FPS_Game/FPS_Game_Part_1_Start/Content/StarterContent/Maps/_GENERATED/melbournemedia/SM_camera.uasset",
+				"C:/Users/melbourne.media/Documents/GitHub/FPS_Game/FPS_Game_Part_1_Start/Content/seviisomething/meshes/SM_camera.uasset",
+				"C:/Users/melbourne.media/Documents/GitHub/FPS_Game/FPS_Game_Part_1_Start/Content/seviisomething/materials/blueprint/BP_camera.uasset",
+				"C:/Users/melbourne.media/Documents/GitHub/FPS_Game/FPS_Game_Part_1_Start/Content/StarterContent/Maps/_GENERATED/melbournemedia/SM_Key.uasset"
 			]
 		}
 	]
